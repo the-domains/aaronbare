@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AaronBare]]></title>
+        <description><![CDATA[AaronBare]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 20:50:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Launching Disruption]]></title>
+            <description><![CDATA[<article><h1>Launching Disruption</h1><p>Disruption is happening everywhere to everything. Innovation is sparking transformation of every industry and every job function. The vast majority of friction is being eliminated by innovative Entrepreneurs, Apps, Services and Products focusing on nearly every issues that plagues our daily lives. Entrepreneurs have already disrupted old and non-efficient models, such as Newspapers, TV, Radio, Video Rental, Photo Finishing, Travel Agents, Cable Companies and even the Web is being disrupted, spelled out in an article, “Web is Dead” in Wired Magazine. Computers not only made there way to every home as Bill Gates proclaimed in 1976, now to every pocket and soon to every product, creating trackable and smart materials that plugin to share information connectivity anything you can imagine.</p></article>]]></description>
+            <link>undefinedlaunching-disruption/index.html</link>
+            <guid isPermaLink="false">a232a4de-edc1-49bc-909b-754084de0a75</guid>
+            <pubDate>Wed, 03 Feb 2016 20:50:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
